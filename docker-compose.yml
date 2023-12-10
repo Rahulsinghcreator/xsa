@@ -9,6 +9,6 @@ services:
       API_ID: # Your API HASH from my.telegram.org
       API_HASH: # Your API ID from my.telegram.org
       BOT_TOKEN: # Bot token, get it from @BotFather 
-      SESSION: "BQCeK2BnvFMDWBD7i1kR4QoqzafaQnRRmaFGZDpdlFXEw86kR48qDWkCO8Al6Q3Sq7E0OTKp9iDBdgXGKZCliY3iqQnXGO6FcpGbB1Yk8MVeFjmm8vj7d2t0Bt95nYsDblIiv6Jihkz7yhPQDGh9XN8_ClzZ38_ielNIXUbIItmR7SenjM887SSbParYi9FgfWnfIemX8I-4UVz8LHHTx7oHw6iFXc5yamk2o5taDC3N5sfMJKj_Bv5Ms3fEOyJFDv2G6senYyRYKuhbqnIVdUX3_j9ifF-JH_BtuE7r-z46GuiFv0mJXknfCVk5C6mE7Kv0BhbCga4ac5nbwB_tD2fcAAAAAWu6uWQA"
+      SESSION: 
       AUTH: # User ID of Bot owner
       FORCESUB: # Username name of public channel without using '@'
